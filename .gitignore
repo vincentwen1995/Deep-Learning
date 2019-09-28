@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*.ipynb
+__pycache__
+.vscode
+test*
+model_ckpt
+cifar-10-*
+handwritings*
+assignment_3/code/data/
